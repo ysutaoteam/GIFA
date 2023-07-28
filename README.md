@@ -2,7 +2,7 @@
 We provide the code for the GIFA. Please follow the instructions below to use our code.
 ## Prerequisites
 The code is tested on 64 bit Windows 10. You should also install Python 3.9 before running our code.
-## UPDRS.rar files
+## UPDRS prediction.rar files
 The implementation of the GIFA method mainly includes the following steps:<br>
 ①GIFE;<br>
 ②causal feature selection IAMB; <br>
